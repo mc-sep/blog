@@ -1,36 +1,30 @@
 ---
-title: Anthony Fu
-description: Anthony Fu's Portfolio
-image: https://antfu.me/og.png
+title: isYangs
+description: isYangs Portfolio
 plum: true
 ---
 
-Hey, I am Anthony Fu, a fanatical open sourceror.
+Hi，你好啊，我是 isYangs，一个很懒的前端 Bug 构造师。
 
-Working at [<span i-simple-icons-nuxtdotjs /> NuxtLabs](https://nuxtlabs.com/).<br>
-Creator of [Vitest](https://github.com/vitest-dev/vitest), [Slidev](https://github.com/slidevjs/slidev), [VueUse](https://github.com/vueuse/vueuse), [UnoCSS](https://github.com/antfu/unocss), [Elk](https://github.com/elk-zone/elk), [Type Challenges](https://github.com/type-challenges/type-challenges) and [others](/projects).<br>
-Core team member of [Vue](https://vuejs.org/), [Nuxt](http://nuxtjs.org/) and [Vite](http://vitejs.dev/).<br>
+目前工作于某游戏公司，经常会在工作之余来做一些有趣的项目 ，目前正在开发 Hexo 的 Simple 主题。<br>
 
-Dreaming up ideas and making them come true is where my passion lies. You can find my [full projects list here](/projects). I also do some generative-art, compform, interactivity experiments on [100.antfu.me](https://100.antfu.me/).
+你可以[从这里找到我的所以项目](/projects)， 并且我还提供了一个图片托管平台[可以从这里访问到](https://7tu.top)你也可以把图片托管在这里。
 
-Outside of programming, I enjoy doing photography and traveling. Some of my photos can be found on [Instagram](https://www.instagram.com/antfu7). If you happen to be in the same city I live (currently in Paris), maybe we can hang out and take some photos or code together.
+除了写代码之外，我还喜欢看动漫，做视频之类的，总是喜欢去研究一些我认为有趣的事情，如果碰巧你也在 Xi'an 兴许我们可以一起出去玩呀。
+
+可能有人会好奇我的这个博客是什么主题或者程序之类的，这个博客是 <a href="https://github.com/antfu/antfu.me" target="_blank"><span op75 i-simple-icons-github /> Fork Anthony Fu 大佬的博客</a>，在原有基础上增加了评论、友链功能，如果你也想使用可以在我的  <a href="https://github.com/isYangs/blog" target="_blank"><span op75 i-simple-icons-github /> GitHub</a> 中找到并 克隆下来使用。
 
 <div flex-auto />
 
 ***
 
-Find me on
+找到我
 
 <p flex="~ gap-3 wrap" class="mt--2!">
-  <a href="https://github.com/antfu" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://elk.zone/m.webtoo.ls/@antfu" target="_blank"><span op75 i-simple-icons-mastodon/> Mastodon</a>
-  <a href="https://www.twitter.com/antfu7" target="_blank"><span op75 i-ri-twitter-x-fill /> Twitter</a>
-  <a href="https://chat.antfu.me" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
-  <a href="https://www.youtube.com/anthonyfu7" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
-  <a href="https://www.instagram.com/antfu7" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
-  <a href="https://space.bilibili.com/668380" target="_blank"><span op75 i-simple-icons-bilibili /> 哔哩哔哩</a>
-  <a href="https://www.zhihu.com/people/antfu" target="_blank"><span op75 i-simple-icons-zhihu /> 知乎</a>
-  <a href="https://weibo.com/u/7485197193" target="_blank"><span op75 i-simple-icons-sinaweibo /> 微博</a>
+  <a href="https://github.com/isYangs" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
+  <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=hi@isyangs.cn" target="_blank"><span op75 i-mdi:email-multiple/> 发邮件给我</a>
+  <a href="https://wpa.qq.com/wpa_jump_page?v=3&uin=750837279&site=qq&menu=yes" target="_blank"><span op75 i-cib:qq/> Q我</a>
+  其他社交平台随缘
 </p>
 
-If you enjoy my works, consider sponsoring me on [<span i-carbon-favorite /> GitHub Sponsor](https://github.com/sponsors/antfu) or [<span i-carbon-lightning /> 爱发电](https://afdian.net/a/antfu) to keep them sustainable.
+如果你喜欢我的作品，可以考虑赞助我 [<span i-carbon-lightning /> 爱发电](https://afdian.net/a/isYangs) 这会让我有动力持续输出更多的项目。

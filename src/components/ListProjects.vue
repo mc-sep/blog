@@ -1,6 +1,8 @@
 <script setup lang="ts">
 defineProps<{ projects: Record<string, any[]> }>()
 
+const content = ref<HTMLDivElement>()
+
 function slug(name: string) {
   return name.toLowerCase().replace(/[\s\\\/]+/g, '-')
 }
@@ -49,19 +51,16 @@ function slug(name: string) {
     <div class="prose pb5 mx-auto mt10 text-center">
       <p op75>
         <em>
-          Thanks for getting interested in my works! If like them or find them useful, consider
+          感谢您对我的作品感兴趣！如果喜欢它们或发现它们有用，请考虑
           &nbsp;<a
-            href="https://github.com/sponsors/antfu"
+            href="https://afdian.net/a/isYangs"
             target="_blank"
             rel="nofollow noopener noreferrer"
-          >sponsoring me</a>&nbsp;to support me keeping them sustainable. Cheers! :)
+          >赞助我</a>&nbsp; 以支持我保持它们的可持续发展。干杯! :)
         </em>
       </p>
 
       <SponsorButton />
-      <div block mt-5>
-        <a href="https://antfu.me/stars-rank" target="_blank" op50>All projects sort by Stars</a>
-      </div>
     </div>
   </div>
   <div>

@@ -50,7 +50,7 @@ function slug(name: string) {
           <p>name ：isYangs Blog (站点名称)</p>
           <p>desc ：一个前端Bug构造师的博客 (站点描述)</p>
           <p>link ：https://isyangs.cn (站点链接)</p>
-          <p>logo ：https://isyangs.cn/avatar.png (站点图标)</p>
+          <p>logo ：https://isyangs.cn/avatar.jpg (站点图标)</p>
         </blockquote>
       </p>
     </div>

@@ -13,7 +13,7 @@ links:
   
   '大佬们':
     - name: '杜老师说'
-      link: 'https://7tu.top'
+      link: 'https://dusays.com/'
       desc: '师者，传道，授业，解惑！'
       logo: 'https://cdn.dusays.com/avatar.png'
 

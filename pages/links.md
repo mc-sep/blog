@@ -24,6 +24,10 @@ links:
       link: 'https://www.imets.cn'
       desc: '一个宁静的世界'
       logo: 'https://www.imets.cn/favicon.ico'
+    - name: '若志随笔'
+      link: 'https://rz.sb/'
+      desc: '愿世界安康，愿你我皆好！'
+      logo: 'https://q1.qlogo.cn/g?b=qq&nk=80360650&s=100'
 
 ---
 

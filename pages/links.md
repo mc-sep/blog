@@ -19,7 +19,11 @@ links:
     - name: 'Colsrch'
       link: 'https://www.colsrch.cn/'
       desc: '愿多年以后，我可以酌一杯清酒，烂醉如泥，梦中回到我们的曾经。'
-      logo: 'https://bu.dusays.com/2022/02/23/cb173cbdcc7c6.png'
+      logo: 'https://7.isyangs.cn/1/657976c27bea6-1.png'
+    - name: '静若安然'
+      link: 'https://www.imets.cn'
+      desc: '一个宁静的世界'
+      logo: 'https://www.imets.cn/favicon.ico'
 
 ---
 

@@ -28,6 +28,10 @@ links:
       link: 'https://rz.sb/'
       desc: '愿世界安康，愿你我皆好！'
       logo: 'https://q1.qlogo.cn/g?b=qq&nk=80360650&s=100'
+    - name: '风吹流年'
+      link: 'http://12043.cn/'
+      desc: '不是很出色，但是很热爱！'
+      logo: 'http://wj.12043.cn/wp-content/uploads/2022/09/16c94fdbb6011055.jpeg'
 
 ---
 

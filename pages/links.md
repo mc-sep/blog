@@ -31,7 +31,7 @@ links:
     - name: '风吹流年'
       link: 'http://12043.cn/'
       desc: '不是很出色，但是很热爱！'
-      logo: 'http://wj.12043.cn/wp-content/uploads/2022/09/16c94fdbb6011055.jpeg'
+      logo: 'https://7.isyangs.cn/8/657d8e0a567f1-8.png'
 
 ---
 

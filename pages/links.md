@@ -23,7 +23,7 @@ links:
     - name: '静若安然'
       link: 'https://www.imets.cn'
       desc: '一个宁静的世界'
-      logo: 'https://www.imets.cn/favicon.ico'
+      logo: 'https://7.isyangs.cn/8/65919852eab9e-8.ico'
     - name: '若志随笔'
       link: 'https://rz.sb/'
       desc: '愿世界安康，愿你我皆好！'

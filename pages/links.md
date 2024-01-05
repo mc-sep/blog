@@ -10,6 +10,12 @@ links:
       link: 'https://7tu.top'
       desc: '一个可以帮你托管图片的平台'
       logo: 'https://a.xuewuzhibu.cn/8/655731f175a59-8.ico'
+
+  '社区/论坛':
+    - name: 'LskyPro交流社区'
+      link: 'https://lskypro.com'
+      desc: '你还不会搭建吗？快来社区学习一下吧！'
+      logo: 'https://lskypro.com//upload/admin/202401/01/1_1704052511_axHydqacOT.png'    
   
   '大佬们':
     - name: '杜老师说'

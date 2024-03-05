@@ -9,7 +9,7 @@ links:
     - name: '去图图床'
       link: 'https://7tu.top'
       desc: '一个可以帮你托管图片的平台'
-      logo: 'https://a.xuewuzhibu.cn/8/655731f175a59-8.ico'
+      logo: 'https://7.isyangs.cn/8/655731f175a59-8.ico'
 
   '社区/论坛':
     - name: 'LskyPro交流社区'

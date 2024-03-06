@@ -11,13 +11,13 @@ links:
       desc: '一个可以帮你托管图片的平台'
       logo: 'https://7.isyangs.cn/8/655731f175a59-8.ico'
 
-  '社区/论坛':
+  '社区/论坛/服务':
     - name: 'LskyPro交流社区'
       link: 'https://lskypro.com'
       desc: '你还不会搭建吗？快来社区学习一下吧！'
       logo: 'https://www.lsky.pro/assets/favicon.ico'    
   
-  '大佬们':
+  '技术':
     - name: '杜老师说'
       link: 'https://dusays.com/'
       desc: '师者，传道，授业，解惑！'
@@ -34,6 +34,8 @@ links:
       link: 'https://rz.sb/'
       desc: '愿世界安康，愿你我皆好！'
       logo: 'https://q1.qlogo.cn/g?b=qq&nk=80360650&s=100'
+
+  '生活':
     - name: '静若安然'
       link: 'https://www.imets.cn'
       desc: '一个宁静的世界'
@@ -42,6 +44,10 @@ links:
       link: 'http://www.fclnb.com'
       desc: '不是很出色，但是很热爱！'
       logo: 'https://7.isyangs.cn/8/657d8e0a567f1-8.png'
+    - name: '小旭の破站'
+      link: 'https://www.sicx.top'
+      desc: '小旭破站的日常记录'
+      logo: 'https://q2.qlogo.cn/headimg_dl?dst_uin=2637493570&spec=100'
 
 ---
 

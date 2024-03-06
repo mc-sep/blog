@@ -15,7 +15,11 @@ links:
     - name: 'LskyPro交流社区'
       link: 'https://lskypro.com'
       desc: '你还不会搭建吗？快来社区学习一下吧！'
-      logo: 'https://www.lsky.pro/assets/favicon.ico'    
+      logo: 'https://www.lsky.pro/assets/favicon.ico'
+    - name: '无铭API'
+      link: 'https://jkapi.com/'
+      desc: '无铭API，专注于提供免费、稳定、高速API接口服务'
+      logo: 'https://jkapi.com/favicon.ico'
   
   '技术':
     - name: '杜老师说'

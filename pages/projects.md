@@ -6,10 +6,10 @@ plum: true
 wrapperClass: 'text-center'
 projects:
   '当前开发':
-    - name: 'hexo-theme-simple'
-      link: '#'
-      desc: '一个简洁的 Hexo 主题'
-      icon: 'i-simple-icons-hexo saturate-0'
+    - name: 'GioPic'
+      link: 'https://github.com/isYangs/GioPic'
+      desc: '一款开源的图片上传软件'
+      icon: 'i-material-symbols-drive-folder-upload saturate-0'
 
   'LskyPro插件':
     - name: 'LskyPro for WordPress'

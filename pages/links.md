@@ -50,6 +50,10 @@ links:
       link: 'https://blog.qjqq.cn/'
       desc: '分享网络安全与科技生活'
       logo: 'https://7.isyangs.cn/1/6610173da26fe-1.png'
+    - name: '你好可爱'
+      link: 'https://wjldarling.top/'
+      desc: '山水一程，三生有幸✨'
+      logo: 'https://wangjinglun.oss-cn-beijing.aliyuncs.com/images/1.jpg'
 
   '生活':
     - name: '静若安然'

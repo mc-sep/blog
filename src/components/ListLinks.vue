@@ -1,7 +1,6 @@
 <script setup lang="ts">
 defineProps<{ links: Record<string, any[]> }>()
 
-
 function slug(name: string) {
   return name.toLowerCase().replace(/[\s\\\/]+/g, '-')
 }
@@ -43,16 +42,17 @@ function slug(name: string) {
       </div>
     </div>
     <div class="prose pb5 mx-auto mt20">
-      <p op75>
+      <div op75>
         <blockquote>
-          <p class="font-bold text-18px">欢迎各位提交友链，请按照以下格式提交 <i class="i-twemoji-winking-face-with-tongue" /></p>
-          <p class=""></p>
-          <p>name ：isYangs Blog (站点名称)</p>
-          <p>desc ：一个前端Bug构造师的博客 (站点描述)</p>
-          <p>link ：https://isyangs.cn (站点链接)</p>
-          <p>logo ：https://7.isyangs.cn/8/655c9835780a0-8.jpg (站点图标)</p>
+          <p class="font-bold text-18px">
+            欢迎各位提交友链，请按照以下格式提交 <i class="i-twemoji-winking-face-with-tongue" />
+          </p>
+          <p>name: 'isYangs Blog (站点名称)'</p>
+          <p>link: 'https://isyangs.cn (站点链接)'</p>
+          <p>desc: '一个前端Bug构造师的博客 (站点描述)'</p>
+          <p>logo: 'https://7.isyangs.cn/8/655c9835780a0-8.jpg (站点图标)'</p>
         </blockquote>
-      </p>
+      </div>
     </div>
   </div>
 </template>

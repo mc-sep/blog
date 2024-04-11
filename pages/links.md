@@ -20,6 +20,10 @@ links:
       link: 'https://jkapi.com/'
       desc: '无铭API，专注于提供免费、稳定、高速API接口服务'
       logo: 'https://jkapi.com/favicon.ico'
+    - name: '网联基地'
+      link: 'https://www.wubase.com/'
+      desc: '主机测评,云服务器评测,分享国内外VPS,网站服务器等最新信息'
+      logo: 'https://7.isyangs.cn/1/66181edc8e922-1.png'
   
   '技术':
     - name: '杜老师说'

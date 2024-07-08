@@ -10,7 +10,7 @@ Hi，你好啊，我是 isYangs，一个很懒的前端 Bug 构造师。
 
 你可以[从这里找到我的所有项目](/projects)， 并且我还提供了一个图片托管平台[可以从这里访问到](https://7tu.top)你也可以把图片托管在这里。
 
-除了写代码之外，我还喜欢看动漫，做视频之类的，总是喜欢去研究一些我认为有趣的事情，如果碰巧你也在 Xi'an 兴许我们可以一起出去玩呀。
+除了写代码之外，我还喜欢看动漫，做视频之类的，总是喜欢去研究一些我认为有趣的事情，如果碰巧你也在 QingDao 兴许我们可以一起出去玩呀。
 
 可能有人会好奇我的这个博客是什么主题或者程序之类的，这个博客是 <a href="https://github.com/antfu/antfu.me" target="_blank"><span op75 i-simple-icons-github /> Fork Anthony Fu 大佬的博客</a>，在原有基础上增加了评论、友链功能，如果你也想使用可以在我的  <a href="https://github.com/isYangs/blog" target="_blank"><span op75 i-simple-icons-github /> GitHub</a> 中找到并 克隆下来使用。
 

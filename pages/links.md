@@ -58,6 +58,10 @@ links:
       link: 'https://wjldarling.top/'
       desc: '山水一程，三生有幸✨'
       logo: 'https://wangjinglun.oss-cn-beijing.aliyuncs.com/images/1.jpg'
+    - name: 'MC-Sep'
+      link: https://mc-sep.pages.dev/
+      desc: '人生能有几回搏，天涯何处无芳草🌟'
+      logo: 'https://cdn.luogu.com.cn/upload/usericon/942118.png'
 
   '生活':
     - name: '静若安然'

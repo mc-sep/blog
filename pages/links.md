@@ -62,6 +62,10 @@ links:
       link: 'https://mc-sep.pages.dev/'
       desc: '人生能有几回搏，天涯何处无芳草🌟'
       logo: 'https://cdn.luogu.com.cn/upload/usericon/942118.png'
+    - name: '肤浅Leo'
+      link: 'https://blog.kaixed.com'
+      desc: '平安顺遂，喜乐无忧'
+      logo: 'https://s3.qjqq.cn/49/660ff4a698da0.webp!color'
 
   '生活':
     - name: '静若安然'

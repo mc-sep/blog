@@ -66,6 +66,10 @@ links:
       link: 'https://blog.kaixed.com'
       desc: '平安顺遂，喜乐无忧'
       logo: 'https://s3.qjqq.cn/49/660ff4a698da0.webp!color'
+    - name: '九九小筑'
+      link: 'https://www.lujiujiu.site/'
+      desc: '满地都是六便士，他却抬头看见了月亮。'
+      logo: 'https://www.lujiujiu.site/siteshot/siteshot.jpg'
 
   '生活':
     - name: '静若安然'

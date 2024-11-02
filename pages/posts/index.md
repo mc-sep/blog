@@ -1,5 +1,5 @@
 ---
-title: Blog - isYangs
+title: Hexo系列 - MC-Sep
 display: ''
 plum: true
 ---
